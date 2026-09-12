@@ -25,3 +25,8 @@ CI 会跑上面的全部命令，`dart format` 有改动会直接判失败。
 
 带上：Flutter 版本、节点/边数量级、`SkillTreeCanvasSettings` 的实际取值、录屏或截图。
 手感类问题（抖、挤、不跟手）基本都出在参数上，能给出参数值最好。
+
+## 许可
+
+本仓库按 [MIT](LICENSE) 授权。提交 PR 即视为同意自己的贡献同样以 MIT 授权给本项目
+（inbound = outbound），不需要单独签署 CLA。
