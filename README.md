@@ -1,6 +1,8 @@
 # skill_tree_canvas
 
-[![CI](https://github.com/HeXn/skill_tree_canvas/actions/workflows/ci.yml/badge.svg)](https://github.com/HeXn/skill_tree_canvas/actions/workflows/ci.yml)
+[![CI](https://github.com/hexna/skill_tree_canvas/actions/workflows/ci.yml/badge.svg)](https://github.com/hexna/skill_tree_canvas/actions/workflows/ci.yml)
+
+[English](README.en.md) | 中文
 
 力导向技能树画布，纯 Flutter UI，**零第三方依赖**。
 
