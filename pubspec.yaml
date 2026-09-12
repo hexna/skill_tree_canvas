@@ -1,0 +1,25 @@
+name: skill_tree_canvas
+description: 力导向技能树画布：层级重力自动分列、平移缩放、节点拖拽与可调物理参数的纯 UI 实现。
+version: 0.1.0
+homepage: https://github.com/YOUR_GITHUB_USERNAME/skill_tree_canvas
+repository: https://github.com/YOUR_GITHUB_USERNAME/skill_tree_canvas
+issue_tracker: https://github.com/YOUR_GITHUB_USERNAME/skill_tree_canvas/issues
+topics:
+  - flutter
+  - canvas
+  - force-directed
+  - graph
+  - visualization
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: '>=3.24.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0

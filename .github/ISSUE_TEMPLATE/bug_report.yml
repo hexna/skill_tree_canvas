@@ -1,0 +1,31 @@
+name: 问题反馈
+description: 画面、手感、手势或 API 的问题
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        手感类问题（抖、挤、不跟手）基本都出在物理参数上，请贴上你实际用的取值。
+  - type: input
+    attributes:
+      label: 环境
+      description: Flutter 版本、目标平台（Android / iOS / 桌面 / Web）
+      placeholder: Flutter 3.24.5 · Android 14
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 规模
+      description: 节点数和边数
+      placeholder: 约 60 个节点 / 70 条边
+  - type: textarea
+    attributes:
+      label: 参数
+      description: 当前 SkillTreeCanvasSettings 的四个值
+      placeholder: repulsion 2500 · collisionDistance 50 · damping 0.78 · levelGravity 0.0025
+  - type: textarea
+    attributes:
+      label: 现象与期望
+      description: 发生了什么，你希望是什么样；有录屏或截图更好
+    validations:
+      required: true

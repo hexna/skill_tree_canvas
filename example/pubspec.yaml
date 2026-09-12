@@ -1,0 +1,20 @@
+name: skill_tree_canvas_example
+description: skill_tree_canvas 的示例：平移缩放、层级重力分列、节点拖拽与物理参数面板。
+publish_to: none
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  skill_tree_canvas:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
