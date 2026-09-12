@@ -1,5 +1,7 @@
 # skill_tree_canvas
 
+[![CI](https://github.com/HeXn/skill_tree_canvas/actions/workflows/ci.yml/badge.svg)](https://github.com/HeXn/skill_tree_canvas/actions/workflows/ci.yml)
+
 力导向技能树画布，纯 Flutter UI，**零第三方依赖**。
 
 ![预览](doc/preview.png)
